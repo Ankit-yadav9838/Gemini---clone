@@ -58,7 +58,8 @@ User authentication with profile tracking
 Ankit Yadav
 Java Full Stack Developer
 Final Year B.Tech (Electronics), IERT Prayagraj
-Linked in:<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ankit-yadav-063216265" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ankit-yadav-063216265?trk=profile-badge">Ankit Yadav</a></div>
+Linked in:
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="ankit-yadav-063216265" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ankit-yadav-063216265?trk=profile-badge">Ankit Yadav</a></div>
               
 
 📜 License
